@@ -21,7 +21,9 @@
     "lib": [
       "es2020",
       "dom"
-    ]
+    ],
+    "allowJs": true,
+    // "target": "es2015"
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,

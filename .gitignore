@@ -40,3 +40,7 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# ckeditor5
+./ckeditor5/node_modules
+/ckeditor5/node_modules
